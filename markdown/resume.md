@@ -1,100 +1,84 @@
-Johnny Coder
+Harrys Kedjnane
 ============
+
+> <harrys.kedjnane@gmail.com> • 06 04 65 40 20 • Ile-de-France \
+> [github.com/hkedjnane](https://github.com/hkedjnane) • [linkedin.com/in/harrys-kedjnane](https://www.linkedin.com/in/harrys-kedjnane/)
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Étudiant en **5ème année** d’études d’ingénieur en informatique
+> à **EPITA**, cherchant actuellement un stage de **6 mois** en **Bac+5**
+> dans le milieu de l’informatique à partir de **Fevrier 2025**.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2020-2025
+:   **Diplome d'ingenieur informaticien**; EPITA Paris (Promo 2025)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Majeure GISTRE (Systemes Temps Reel et Embarquees)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Mars-Juin 2022; 
+:   **Semestre d'echange; INHA University, Incheon, Coree du Sud
 
-    *Minor: Awesomeology*
+2019-2020; 
+:   ** Première année commune aux études de santé (PACES); Universite de Paris
 
-Experience
-----------
+Experience professionelle
+-------------------------
 
-**Your Most Recent Work Experience:**
+**Assistant pedagogique (YAKA/ACU): EPITA Paris (2023-2025)**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Responsable d'un atelier sur le langage de programmation Java
+   * Equipe de 8 personnes
+   * Creation et maintien d'exercices et TDs ensignant les notions importantes du langage
+   * Maintien d'un projet sur le framework Quarkus et l'architecture en couche
+   * Organisation et realisation de conferences pedagogiques pour plus de 700 etudiants
 
-* First item
+* Mainteneur de la toolchain interne a l'equipe
+   * Equipe de 4 personnes
+   * Utilisation de Nix et Python
+   * Support technique au reste de l'equipe
+   * Implementation de nouvelles fonctionnalites en lien avec 
+     les autres services de la structure
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Role pedagogique au contact des eleves
+   * Langages enseignes: C/Shell/SQL/Java/C++/Javascript
+   * Presentation d'outils comme Git, Cmake, Autotools, Nodejs...
+   * Animation de travaux diriges et de permanences lors de projets informatique
 
-**That Other Job You Had**
+* Suivi de formations techniques et pedagogiques au sein de la structure
 
-Also with a short description.
+Projets
+-------
 
-Technical Experience
---------------------
+Processeur monocycle ARM
+:   Developpement d'un processeur monocyle base sur le set d'instruction ARM en VHDL et synthetise sur FPGA
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+42sh
+:   Realisation d'un shell suivant le standard POSIX en C
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Implementation 'from scratch' suivant le comportement de bash et la SCL
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Tiger Compiler
+:   Developpement du frontend et backend d'un compilateur pour le langage Tiger en C++
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Competences
 ----------------------------------------
 
-* Human Languages:
+Maitrise: C • C++ • Java • Python • Nix • Rust • VHDL
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+Bases: CUDA • Javascript • SQL • C# • OCaml
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Langues:
+  * **Francais**: langue maternelle 
+  * **Anglais**: TOEIC 980 (C1+) - Janvier 2023
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <harrys.kedjnane@gmail.com> • 06 04 65 40 20 • Ile-de-France \
+> [github.com/hkedjnane](https://github.com/hkedjnane) • [linkedin.com/in/harrys-kedjnane](https://www.linkedin.com/in/harrys-kedjnane/)
